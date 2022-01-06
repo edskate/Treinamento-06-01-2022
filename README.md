@@ -2,16 +2,9 @@
 
 Treinamento 06/01/2022.
 
-### janeiro 2022
-
-- [x] 01/01)
-- [x] 02/01)
-- [x] 03/01)
-- [x] 04/01)
-- [x] 05/01)
-- [ ] folga
-- [ ] 07/01)
-- [ ] 08/01)
-- [ ] 09/01)
-- [ ] 10/01)
-- [ ] 11/01)
+- [
+    ["a","b","c"],
+    ["apple", "orange", "banana"],
+    ["kiwi", "tomato", "avocado"],
+    ["beans", "asparagus", "spinach"]
+    ["bread",  "could",     "red"  ]
